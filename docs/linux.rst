@@ -20,14 +20,14 @@ Staðreyndir
 
 
 Myndvinnsla
-===========
+###########
 
-** Blender **
+**Blender**
 
 * Hugbúnaður til að gera þríviddarmódel, tölvuleiki, kvikmyndir.
 * Opinn og frjáls hugbúnaður
 
-** Darktable **
+**Darktable**
 
 * Hugbúnaður til að vinna með ljósmyndir
 * Góður til að vinna með myndir á RAW sniði
