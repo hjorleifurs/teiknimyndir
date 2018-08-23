@@ -1,7 +1,7 @@
 GNU/Linux
 =========
 
-Staðreyndir:
+Staðreyndir
 ############
 
 * Richard Stallman og Linus Thorvalds eru Guðir kerfisins
@@ -17,5 +17,21 @@ Staðreyndir:
 * Sjálfgefin skel í flestum GNU/Linux útgáfum
 * Bourne skel með viðbótum
 * Skriftur sem skrifaðar eru í Bourne again byrja á "#!/bin/bash".
+
+
+Myndvinnsla
+===========
+
+** Blender **
+
+* Hugbúnaður til að gera þríviddarmódel, tölvuleiki, kvikmyndir.
+* Opinn og frjáls hugbúnaður
+
+** Darktable **
+
+* Hugbúnaður til að vinna með ljósmyndir
+* Góður til að vinna með myndir á RAW sniði
+* Opinn og frjáls hugbúnaður 
+
 
 
