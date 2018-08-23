@@ -1,4 +1,5 @@
-# GNU/Linux
+GNU/Linux
+=========
 
 Staðreyndir:
 
