@@ -1,17 +1,10 @@
 Teiknimyndir.is
 ===============
----
-layout: default
-title: Example
----
 
-# Example project
+-- Smávegis um ýmislegt
 
-## News
+.. toctree::
+   :maxdepth: 2
 
-- Some event
-- Another exciting event
-- More news
-
-- This is something
+   linux.rst
 
