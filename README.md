@@ -1,3 +1,3 @@
-#Teiknimyndir.is
+# Teiknimyndir.is
 
 Eitt og annað 
