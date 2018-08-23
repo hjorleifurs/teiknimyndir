@@ -18,20 +18,3 @@ Staðreyndir
 * Bourne skel með viðbótum
 * Skriftur sem skrifaðar eru í Bourne again byrja á "#!/bin/bash".
 
-
-Myndvinnsla
-###########
-
-**Blender**
-
-* Hugbúnaður til að gera þríviddarmódel, tölvuleiki, kvikmyndir.
-* Opinn og frjáls hugbúnaður
-
-**Darktable**
-
-* Hugbúnaður til að vinna með ljósmyndir
-* Góður til að vinna með myndir á RAW sniði
-* Opinn og frjáls hugbúnaður 
-
-
-

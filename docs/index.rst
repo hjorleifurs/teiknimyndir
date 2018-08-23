@@ -9,4 +9,4 @@ Nokkur tæki, tól og hugbúnaður sem mér finnst eitthvert gagn og gaman af. E
    :maxdepth: 2
 
    linux.rst
-
+   myndvinnsla.rst
