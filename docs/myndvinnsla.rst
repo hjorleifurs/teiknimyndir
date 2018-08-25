@@ -8,6 +8,8 @@ Blender
 * https://www.blender.org/
 
 Krita
+#####
+
 * Hugbúnaður til að teikna og mála
 * https://www.krita.org
 
