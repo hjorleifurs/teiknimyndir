@@ -7,6 +7,10 @@ Blender
 * Hugbúnaður til að gera þríviddarmódel, tölvuleiki, kvikmyndir.
 * https://www.blender.org/
 
+Krita
+* Hugbúnaður til að teikna og mála
+* https://www.krita.org
+
 Darktable
 #########
 
