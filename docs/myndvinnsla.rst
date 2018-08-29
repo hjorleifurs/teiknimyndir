@@ -10,7 +10,6 @@ Blender
   :alt: Blender logo
 
 * Hugbúnaður til að gera þríviddarmódel, tölvuleiki, kvikmyndir.
-* https://www.blender.org
 
 Krita
 #####
@@ -21,7 +20,6 @@ Krita
   :alt: Krita logo
 
 * Hugbúnaður til að teikna og mála
-* https://www.krita.org
 
 Darktable
 #########
@@ -33,5 +31,4 @@ Darktable
 
 * Hugbúnaður til að vinna með ljósmyndir
 * Góður til að vinna með myndir á RAW sniði
-* http://darktable.org
 
