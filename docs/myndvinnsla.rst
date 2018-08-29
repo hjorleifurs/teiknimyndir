@@ -4,6 +4,10 @@ Myndvinnsla
 Blender
 #######
 
+.. image:: pics/blenderlogocolor.png
+  :width: 100
+  :alt: Blender logo
+
 * Hugbúnaður til að gera þríviddarmódel, tölvuleiki, kvikmyndir.
 * https://www.blender.org
 
