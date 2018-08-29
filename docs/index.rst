@@ -10,3 +10,4 @@ Nokkur tæki, tól og hugbúnaður sem mér finnst eitthvert gagn og gaman af. E
 
    linux.rst
    myndvinnsla.rst
+   blender.rst
