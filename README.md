@@ -1,3 +1,6 @@
 # Teiknimyndir.is
 
-Eitt og annað 
+Built like that
+---------------
+
+* sphinx-build docs/ _build/
