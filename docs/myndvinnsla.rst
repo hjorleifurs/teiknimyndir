@@ -27,7 +27,7 @@ Darktable
 #########
 
 .. image:: pics/darktable.png
-  :width: 200
+  :width: 64
   :target: http://darktable.org
   :alt: Darktable logo
 
