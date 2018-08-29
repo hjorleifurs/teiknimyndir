@@ -5,7 +5,8 @@ Blender
 #######
 
 .. image:: pics/blenderlogocolor.png
-  :width: 100
+  :width: 200
+  :target: http://blender.org
   :alt: Blender logo
 
 * Hugbúnaður til að gera þríviddarmódel, tölvuleiki, kvikmyndir.
