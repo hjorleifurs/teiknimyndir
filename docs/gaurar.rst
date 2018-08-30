@@ -7,11 +7,11 @@ Blender
 #######
 
 * Blenderguru_ (Andrew Price)
-* `Blender Cookie`__ (Jonathan Williamson)
+* `CgCookie`__ (Jonathan Williamson)
 
 .. _Blenderguru: http://blenderguru.com
 
-.. _Cookie: http://blendercookie.com
+.. _CgCookie: http://cgcookie.com
 
 __ Cookie_
 
