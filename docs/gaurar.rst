@@ -13,7 +13,7 @@ Blender
 
 .. _CgCookie: http://cgcookie.com
 
-__ Cookie_
+__ CgCookie_
 
 Krita
 #####
