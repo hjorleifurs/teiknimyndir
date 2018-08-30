@@ -6,8 +6,8 @@ Listi yfir þá sem hafa kennt mér eitthvað
 Blender
 #######
 
-* Blenderguru_ 
-* `Blender Cookie`__ (Johnathan Williamson)
+* Blenderguru_ (Andrew Price)
+* `Blender Cookie`__ (Jonathan Williamson)
 
 .. _Blenderguru: http://blenderguru.com
 
