@@ -11,3 +11,4 @@ Nokkur tæki, tól og hugbúnaður sem mér finnst eitthvert gagn og gaman af og
    linux.rst
    myndvinnsla.rst
    blender.rst
+   gaurar.rst
